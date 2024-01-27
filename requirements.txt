@@ -5,3 +5,4 @@ seaborn==0.13.2
 scikit-learn==1.4.0
 opencv-python==4.9.0.80
 jupyter==1.0.0
+tensorflow==2.15.0
