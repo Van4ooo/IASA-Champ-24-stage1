@@ -2,3 +2,4 @@
 .idea
 src/.ipynb_checkpoints
 __pycache__
+src/model_v0.1.h5
