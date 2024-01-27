@@ -1,4 +1,4 @@
-CATEGORIES = {
+CATEGORIES_CODES = {
     'alert': 0, 'button': 1, 'card': 2, 'checkbox_checked': 3,
     'checkbox_unchecked': 4, 'chip': 5, 'data_table': 6, 'dropdown_menu': 7,
     'floating_action_button': 8, 'grid_list': 9, 'image': 10, 'label': 11, 'menu': 12,
@@ -6,6 +6,6 @@ CATEGORIES = {
     'switch_enabled': 17, 'text_area': 18, 'text_field': 19, 'tooltip': 20
 }
 
-COUNT = CATEGORIES.__len__()
+COUNT = CATEGORIES_CODES.__len__()
 
-__all__ = ['CATEGORIES', 'COUNT']
+__all__ = ['CATEGORIES_CODES', 'COUNT']
