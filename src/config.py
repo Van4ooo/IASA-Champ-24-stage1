@@ -7,5 +7,4 @@ CATEGORIES_CODES = {
 }
 
 COUNT = CATEGORIES_CODES.__len__()
-
-__all__ = ['CATEGORIES_CODES', 'COUNT']
+SHAPE = (224, 224, 1)
