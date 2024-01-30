@@ -1,5 +1,6 @@
+__pycache__
 .venv
 .idea
 src/.ipynb_checkpoints
-__pycache__
 src/models
+src/data/result

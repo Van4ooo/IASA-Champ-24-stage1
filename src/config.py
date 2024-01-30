@@ -5,6 +5,7 @@ CATEGORIES_CODES = {
     'radio_button_checked': 13, 'radio_button_unchecked': 14, 'slider': 15, 'switch_disabled': 16,
     'switch_enabled': 17, 'text_area': 18, 'text_field': 19, 'tooltip': 20
 }
+CATEGORIES_REVERSE = {v: k for k, v in CATEGORIES_CODES.items()}
 
 COUNT = CATEGORIES_CODES.__len__()
 SHAPE = (224, 224, 1)
