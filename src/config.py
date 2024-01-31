@@ -12,3 +12,4 @@ SHAPE = (224, 224, 1)
 
 train_set_path = 'data/processed/train_set.csv'
 test_set_path = 'data/processed/test_set.csv'
+test_folder_path = 'data/test'
