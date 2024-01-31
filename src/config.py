@@ -9,3 +9,6 @@ CATEGORIES_REVERSE = {v: k for k, v in CATEGORIES_CODES.items()}
 
 COUNT = CATEGORIES_CODES.__len__()
 SHAPE = (224, 224, 1)
+
+train_set_path = 'data/processed/train_set.csv'
+test_set_path = 'data/processed/test_set.csv'
